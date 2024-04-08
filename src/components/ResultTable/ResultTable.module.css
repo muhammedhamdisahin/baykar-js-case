@@ -1,0 +1,27 @@
+.container {
+	padding: 100px;
+	height: 90vh;
+	overflow: scroll;
+}
+
+.qaContainer {
+	margin-top: 10px;
+	border-top: 1px solid gray;
+	border-left: 1px solid gray;
+	padding: 10px;
+}
+
+.title {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.answerContainer {
+	display: flex;
+	align-items: center;
+}
+
+.againButton {
+	padding: 20px;
+	margin-top: 20px;
+}

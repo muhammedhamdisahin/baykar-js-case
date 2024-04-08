@@ -1,0 +1,28 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	width: "1000px";
+}
+
+.timerContainer {
+	display: flex;
+	justify-content: center;
+	border-bottom: solid 2px red;
+}
+
+.questionTitle {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.questionBody {
+	text-indent: 10px;
+	font-size: 20px;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+
+.choiceContainer {
+	display: flex;
+	justify-content: space-around
+}
